@@ -1,0 +1,80 @@
+1620308361848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.aCLl81aBaGwG"
+1620308365473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620308368016	Marionette	INFO	Listening on port 54700
+1620308368125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620308400914	Marionette	INFO	Stopped listening on port 54700
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620308404554	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.kOmJFKLxkPPg"
+1620308405026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620308407277	Marionette	INFO	Listening on port 55050
+1620308407346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620308522445	Marionette	INFO	Stopped listening on port 55050
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620308529317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.rTIlOkunp2wL"
+1620308529785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620308532030	Marionette	INFO	Listening on port 55723
+1620308532104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620308602592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.hWULpl14DDVS"
+1620308603073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620308605383	Marionette	INFO	Listening on port 56155
+1620308605487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620308668428	Marionette	INFO	Stopped listening on port 56155
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620308928537	Marionette	INFO	Stopped listening on port 55723
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620311569889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.RQ1YVEHdFcag"
+1620311570597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620311573123	Marionette	INFO	Listening on port 53814
+1620311573201	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1620311599823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.fPmpl9Ql9YoA"
+1620311600424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620311602787	Marionette	INFO	Listening on port 54063
+1620311602835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620311634257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.mVUPxoJzVcRV"
+1620311634841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620311637315	Marionette	INFO	Listening on port 54340
+1620311637373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620311638205	Marionette	INFO	Stopped listening on port 54063
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620311672986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/b9x69y5d1vn0x5xbn1_01rwr0000gp/T/rust_mozprofile.Zd0olOKMcolr"
+1620311673518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620311676169	Marionette	INFO	Listening on port 54600
+1620311676211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620311683106	Marionette	INFO	Stopped listening on port 54340
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620311698643	Marionette	INFO	Stopped listening on port 54600
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1620320978118	Marionette	INFO	Stopped listening on port 53814
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

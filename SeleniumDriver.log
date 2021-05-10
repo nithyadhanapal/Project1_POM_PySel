@@ -1,0 +1,10 @@
+05/06/2021 02:07:30 PM - SeleniumDriver - INFO: Element Found with locator: //a[contains(text(),'Practice Projects')] locatorType: xpath
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Practice Projects')] locatorType: xpath
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Element Found with locator: name locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Sent data on element with locator: name locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Element Found with locator: email locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Sent data on element with locator: email locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Element Found with locator: agreeTerms locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Clicked on element with locator: agreeTerms locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Element Found with locator: form-submit locatorType: id
+05/06/2021 02:07:31 PM - SeleniumDriver - INFO: Clicked on element with locator: form-submit locatorType: id
